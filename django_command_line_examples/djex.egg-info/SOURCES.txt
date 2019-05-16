@@ -1,0 +1,8 @@
+hello.py
+setup.py
+djex.egg-info/PKG-INFO
+djex.egg-info/SOURCES.txt
+djex.egg-info/dependency_links.txt
+djex.egg-info/entry_points.txt
+djex.egg-info/requires.txt
+djex.egg-info/top_level.txt
